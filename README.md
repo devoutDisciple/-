@@ -1,6 +1,6 @@
 ### NideShop商城（微信小程序端）
 
-+ 界面高仿网易严选商城(主要是2016年wap版)
++ 严选商城
 + 测试数据采集自网易严选商城
 + 功能和数据库参考ecshop
 + 服务端api基于Ｎode.js+ThinkJS+MySQL
@@ -86,7 +86,3 @@
 ### 服务端api
 项目地址：https://github.com/tumobi/nideshop
 
-### 交流
-喜欢别忘了 Star，有问题可通过微信、公众号、QQ 群联系我，谢谢您的关注。
-
-![联系方式](http://nideshop-static.nideshop.com/nideshop-qrcode.png)
